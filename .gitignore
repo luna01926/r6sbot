@@ -58,4 +58,4 @@ typings/
 .env
 
 # settingfile
-setting.js
+settings.js
