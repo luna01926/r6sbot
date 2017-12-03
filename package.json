@@ -1,0 +1,16 @@
+{
+  "name": "r6sbot",
+  "version": "0.0.1",
+  "description": "return r6s data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "luna01926",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "request": "^2.83.0"
+  }
+}
