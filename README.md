@@ -1,5 +1,15 @@
 # R6Sbot
 
+## 実行環境
+
+```
+node.js v8.9.0
+npm 4.0.5
+-----------------
+discord.js 11.2.1
+request 2.83.0
+```
+
 ## 導入
 
 * `git clone https://github.com/luna01926/r6sbot.git`
